@@ -4,10 +4,9 @@
 
 > "想象力比知识更重要。知识是有限的，而想象力概括着世界的一切，推动着进步，并且是知识进化的源泉。" -- 阿尔伯特·爱因斯坦
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Claude Code Skill](https://img.shields.io/badge/claude--code-skill-orange.svg)](https://github.com/Panmax/einstein-skill)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/einstein-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将爱因斯坦的思维实验方法、相对论思维和想象力驱动的问题解决方式蒸馏为 Claude Code Skill，让 AI 像爱因斯坦一样思考。**
 
 </div>
@@ -96,16 +95,12 @@ einstein-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
 
-Made with thought experiments by [Panmax](https://github.com/Panmax)
+MIT License
 
-"我没有特别的天赋，我只是充满了好奇心。"
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
