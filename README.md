@@ -5,9 +5,9 @@
 > "想象力比知识更重要。知识是有限的，而想象力概括着世界的一切，推动着进步，并且是知识进化的源泉。" -- 阿尔伯特·爱因斯坦
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将爱因斯坦的思维实验方法、相对论思维和想象力驱动的问题解决方式蒸馏为 Claude Code Skill，让 AI 像爱因斯坦一样思考。**
+**将爱因斯坦的思维实验方法、相对论思维和想象力驱动的问题解决方式蒸馏为 Agent Skill（Claude Code 等客户端可用），让 AI 像爱因斯坦一样思考。**
 
 </div>
 
